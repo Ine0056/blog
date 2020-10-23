@@ -12,9 +12,10 @@ author: いね / Ricecat_
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  ABOUT ME: "https://twitter.com/RiceCat_"
+  ABOUT ME: ""
   AUTHOR'S HOME:
     - いねさばHP: "https://sites.google.com/view/ine-server"
+    - いねさばステータス: "https://status.1necat.com/"
 
 # --- Logo --- #
 
